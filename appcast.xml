@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/main/Codex-Account-Manager-v1.0.0-build69.zip" length="2268536" type="application/octet-stream" sparkle:edSignature="4xqXHeVwspZiC4v2fIQq4rZ6PNOU5CEhb8tY/6ZAV+ScUoH/7+D5NgMYR3zrWVddo37/xzuahQTR877aZYdIDA=="/>
+            <enclosure url="https://github.com/Artisians/codex-account-switcher-updates/releases/download/v1.0.0/Codex-Account-Manager-1.0.0-macos-arm64.zip" length="2268536" type="application/octet-stream" sparkle:edSignature="0PSpKSZOIKB0xOUtooboN/YodYudpNuJgLBRpb+8TJfW0mTEoIltIGWiHqBJqrPXxrw92RXYHEE8U6UAweKiBQ=="/>
         </item>
     </channel>
 </rss>
