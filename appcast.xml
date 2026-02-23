@@ -1,9 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Codex Account Manager</title>
-    <link>https://github.com/Artisians/codex-account-switcher-updates</link>
-    <description>Updates for Codex Account Manager</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Codex Account Manager</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 23 Feb 2026 11:08:08 +0200</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/Codex-Account-Manager-v1.0.0-build68.zip" length="2268537" type="application/octet-stream" sparkle:edSignature="LJqNST1Dz/nFMLmWBirPW+8E/2+p2/tNzgEeWd3XNPJzGw/2kQ70i8CQLnLNcOG0sUPD14VfznPc1o38Z3bqBA=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 23 Feb 2026 10:42:06 +0200</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/Codex-Account-Manager-v1.0.0-build67.zip" length="2272875" type="application/octet-stream"/>
+        </item>
+    </channel>
 </rss>
