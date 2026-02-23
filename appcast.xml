@@ -4,21 +4,12 @@
         <title>Codex Account Manager</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Mon, 23 Feb 2026 11:08:35 +0200</pubDate>
-            <sparkle:version>68</sparkle:version>
+            <pubDate>Mon, 23 Feb 2026 11:28:48 +0200</pubDate>
+            <sparkle:version>69</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/main/Codex-Account-Manager-v1.0.0-build68.zip" length="2268537" type="application/octet-stream" sparkle:edSignature="LJqNST1Dz/nFMLmWBirPW+8E/2+p2/tNzgEeWd3XNPJzGw/2kQ70i8CQLnLNcOG0sUPD14VfznPc1o38Z3bqBA=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 23 Feb 2026 10:42:06 +0200</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/main/Codex-Account-Manager-v1.0.0-build67.zip" length="2272875" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/main/Codex-Account-Manager-v1.0.0-build69.zip" length="2268536" type="application/octet-stream" sparkle:edSignature="4xqXHeVwspZiC4v2fIQq4rZ6PNOU5CEhb8tY/6ZAV+ScUoH/7+D5NgMYR3zrWVddo37/xzuahQTR877aZYdIDA=="/>
         </item>
     </channel>
 </rss>
